@@ -7,3 +7,6 @@
 [submodule "projects"]
 	path = projects
 	url = https://github.com/toolkitchen/projects.git
+[submodule "toolkit-ui"]
+	path = toolkit-ui
+	url = https://github.com/toolkitchen/toolkit-ui.git
