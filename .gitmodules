@@ -10,3 +10,9 @@
 [submodule "toolkit-ui"]
 	path = toolkit-ui
 	url = https://github.com/toolkitchen/toolkit-ui.git
+[submodule "uxa-elements"]
+	path = uxa-elements
+	url = https://sjmiles@github.com/toolkitchen/uxa-elements.git
+[submodule "toolkit-elements"]
+	path = toolkit-elements
+	url = https://github.com/toolkitchen/toolkit-elements.git
