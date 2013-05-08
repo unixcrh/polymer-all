@@ -10,3 +10,9 @@
 [submodule "toolkit-ui"]
 	path = toolkit-ui
 	url = https://github.com/toolkitchen/toolkit-ui.git
+[submodule "toolkit-elements"]
+	path = toolkit-elements
+	url = https://github.com/toolkitchen/toolkit-elements.git
+[submodule "aux-elements"]
+	path = aux-elements
+	url = https://github.com/toolkitchen/aux-elements.git
