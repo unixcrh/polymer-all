@@ -1,19 +1,19 @@
 [submodule "projects"]
 	path = projects
-	url = git://github.com/Polymer/projects.git
+	url = https://github.com/Polymer/projects.git
 [submodule "toolkit-ui"]
 	path = toolkit-ui
-	url = git://github.com/Polymer/toolkit-ui.git
+	url = https://github.com/Polymer/toolkit-ui.git
 [submodule "polymer-ui-elements"]
 	path = polymer-ui-elements
-	url = git://github.com/Polymer/polymer-ui-elements
+	url = https://github.com/Polymer/polymer-ui-elements
 [submodule "polymer"]
 	path = polymer
-	url = git://github.com/Polymer/polymer
+	url = https://github.com/Polymer/polymer
 [submodule "polymer-elements"]
 	path = polymer-elements
-	url = git://github.com/Polymer/polymer-elements
+	url = https://github.com/Polymer/polymer-elements
 [submodule "more-elements"]
 	path = more-elements
-	url = git://github.com/Polymer/more-elements.git
+	url = https://github.com/Polymer/more-elements.git
 	branch = master
