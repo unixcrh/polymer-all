@@ -1,18 +1,18 @@
 [submodule "toolkit"]
 	path = toolkit
-	url = https://github.com/toolkitchen/toolkit.git
+	url = https://github.com/polymer-project/toolkit.git
 [submodule "pantry"]
 	path = pantry
-	url = https://github.com/toolkitchen/pantry.git
+	url = https://github.com/polymer-project/pantry.git
 [submodule "projects"]
 	path = projects
-	url = https://github.com/toolkitchen/projects.git
+	url = https://github.com/polymer-project/projects.git
 [submodule "toolkit-ui"]
 	path = toolkit-ui
-	url = https://github.com/toolkitchen/toolkit-ui.git
+	url = https://github.com/polymer-project/toolkit-ui.git
 [submodule "toolkit-elements"]
 	path = toolkit-elements
-	url = https://github.com/toolkitchen/toolkit-elements.git
+	url = https://github.com/polymer-project/toolkit-elements.git
 [submodule "aux-elements"]
 	path = aux-elements
-	url = https://github.com/toolkitchen/aux-elements.git
+	url = https://github.com/polymer-project/aux-elements.git
