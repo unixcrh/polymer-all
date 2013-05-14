@@ -13,6 +13,7 @@
 [submodule "polymer-elements"]
 	path = polymer-elements
 	url = git://github.com/polymer-project/polymer-elements
-[submodule "pantry-elements"]
-	path = pantry-elements
-	url = git://github.com/polymer-project/pantry-elements
+[submodule "more-elements"]
+	path = more-elements
+	url = git://github.com/polymer-project/more-elements.git
+	branch = master
