@@ -1,4 +1,4 @@
-toolkitchensink
+polymer-all
 ===============
 
-Combination of toolkit, projects, and pantry repositories for easy cloning.
+Combination of polymer, projects, polymer-elements, polymer-ui-elements, and more-elements repositories for easy cloning.
