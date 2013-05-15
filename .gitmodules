@@ -1,18 +1,19 @@
-[submodule "toolkit"]
-	path = toolkit
-	url = https://github.com/toolkitchen/toolkit.git
-[submodule "pantry"]
-	path = pantry
-	url = https://github.com/toolkitchen/pantry.git
 [submodule "projects"]
 	path = projects
-	url = https://github.com/toolkitchen/projects.git
+	url = https://github.com/Polymer/projects.git
 [submodule "toolkit-ui"]
 	path = toolkit-ui
-	url = https://github.com/toolkitchen/toolkit-ui.git
-[submodule "toolkit-elements"]
-	path = toolkit-elements
-	url = https://github.com/toolkitchen/toolkit-elements.git
-[submodule "aux-elements"]
-	path = aux-elements
-	url = https://github.com/toolkitchen/aux-elements.git
+	url = https://github.com/Polymer/toolkit-ui.git
+[submodule "polymer-ui-elements"]
+	path = polymer-ui-elements
+	url = https://github.com/Polymer/polymer-ui-elements
+[submodule "polymer"]
+	path = polymer
+	url = https://github.com/Polymer/polymer
+[submodule "polymer-elements"]
+	path = polymer-elements
+	url = https://github.com/Polymer/polymer-elements
+[submodule "more-elements"]
+	path = more-elements
+	url = https://github.com/Polymer/more-elements.git
+	branch = master
